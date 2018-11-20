@@ -7,8 +7,9 @@
     <StackLayout>
         
         <Label Text="Update update"
-               FontSize="40"/>
-
+               FontSize="40"
+	       VerticalOptions="Center"/>
+	
     </StackLayout>
 
 </ContentPage>
